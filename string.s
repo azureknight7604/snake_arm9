@@ -1,4 +1,3 @@
-
 .ascii "Score:"
 .ascii "Best:"
 .ascii "Paused"
