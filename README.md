@@ -43,3 +43,6 @@ START - Start Game / Pause / Un-Pause / Play Again
 
 4. 8x8 Font used.
 [https://www.coranac.com/tonc/img/tonc_font.png](https://www.coranac.com/tonc/img/tonc_font.png)
+
+5. devkitPro to compile code for the Nintendo DS.
+[https://devkitpro.org/](https://devkitpro.org/)
