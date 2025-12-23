@@ -22,7 +22,7 @@ If it works, you should see this screen:
 ![snake_info_arm9](images/snake_info.png)
 
 ## Controls
-D-Pad - Play / Change Snake direction
+D-Pad - Move Snake / Change Snake direction
 
 START - Start Game / Pause / Un-Pause / Play Again
 
