@@ -4,7 +4,7 @@ A simple snake game coded in ARM9 assembly language for the Nintendo DS.
 ![snake_arm9](images/snake.gif)
 
 ## How to setup
-Download the savefile located in the [save](save/) directory.
+1. Download the savefile located in the [save](save/) directory.
 
 > [!NOTE]
 > Make sure you download the correct savefile for your game's region. Also, you'll notices that at the end of each filename, there are *melon_PC* or *melon_android*. *melon_PC* is for the desktop version of melonDS emulator (Windows, Mac, Linux) and *melon_android* is for the android port of melonDS emulator.
@@ -12,13 +12,13 @@ Download the savefile located in the [save](save/) directory.
 > [!WARNING]
 > If you have an existing savefile, be sure to backup that first by either renaming it or make a copy of it. This is so that you can go back to your original savefile after you're done messing around with the modified savefile provided here.
 
-Place your savefile in the same directory as your Nintendo DS ROMs (most likley, depending on the setup/emulator).
+2. Place your savefile in the same directory as your Nintendo DS ROMs (most likley, depending on the setup/emulator).
 
-Rename your downloaded savefile the same as your Nintendo DS ROM filename.
+3. Rename your downloaded savefile the same as your Nintendo DS ROM filename.
 
-Run melonDS emulator and select the game with the modified savefile.
+4. Run melonDS emulator and select the game with the modified savefile.
 
-At the "titlescreen" where you see New Game and Continue, select Continue.
+5. At the "titlescreen" where you see New Game and Continue, select Continue.
 
 If it works, you should see this screen:
 
