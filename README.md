@@ -31,7 +31,7 @@ desmume emulator v0.9.13-win64 (Windows)
 1. This whole project was based on this information.
 [Exploting DS save games](https://cturt.github.io/DS-exploit-finding.html)
 
-2. Programming for the Nintendo DS in ARM assembly language
+2. Programming for the Nintendo DS in ARM assembly language.
 [ARM programming for the Nintendo DS](https://www.chibialiens.com/arm/nds.php)
 
 3. 8x8 Font used.
