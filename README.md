@@ -1,5 +1,5 @@
 # snake_arm9
-Snake game coded in ARM9 assembly language.
+A simple snake game coded in ARM9 assembly language for the Nintendo DS.
 
 ![snake_arm9](images/snake.gif)
 
