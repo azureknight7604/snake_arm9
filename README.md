@@ -18,12 +18,10 @@ If it works, you should see this screen:
 
 ![snake_info_arm9](images/snake_info.png)
 
-
 ## Controls
 D-Pad - Play / Change Snake direction
 
 START - Start Game / Pause / Un-Pause / Play Again
-
 
 ## Tested and working
 * melonDS emulator v0.9.5 win_x64 (Windows)
@@ -31,7 +29,6 @@ START - Start Game / Pause / Un-Pause / Play Again
 * melonDS-android
 
 * desmume emulator v0.9.13-win64 (Windows)
-
 
 ## Credits
 1. This whole project was based on this information.
