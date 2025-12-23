@@ -37,5 +37,8 @@ desmume emulator v0.9.13-win64 (Windows)
 2. Programming for the Nintendo DS in ARM assembly language.
 [ARM programming for the Nintendo DS](https://www.chibialiens.com/arm/nds.php)
 
-3. 8x8 Font used.
+3. CheatSheet for all the ARM commands.
+(ARM9 CheatSheet)[https://www.chibialiens.com/arm/CheatSheet.pdf]
+
+4. 8x8 Font used.
 [Tonc Text Systems](https://www.coranac.com/tonc/img/tonc_font.png)
