@@ -12,7 +12,7 @@ A simple snake game coded in ARM9 assembly language for the Nintendo DS.
 > [!WARNING]
 > If you have an existing savefile, be sure to backup that first by either renaming it or make a copy of it. This is so that you can go back to your original savefile after you're done messing around with the modified savefile provided here.
 
-2. Place your savefile in the same directory as your Nintendo DS ROMs (this is most likley the case, depending on the setup/emulator).
+2. Place your savefile that you've downloaded in the same directory as your Nintendo DS ROMs (this is most likley the case, depending on the setup/emulator).
 
 3. Rename your downloaded savefile the same as your Nintendo DS ROM filename.
 
