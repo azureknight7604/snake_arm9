@@ -6,7 +6,7 @@ Snake game coded in ARM9 assembly language.
 ## How to setup
 Download the savefile located in the /save directory.
 > [!NOTE]
-> Make sure that you download the correct savefile for your game's region. Also, you'll notices that at the end of the filename, there are *melon_PC* and *melon_android*. *melon_PC* is for the desktop version of melonDS emulator (Windows, Mac, Linux, etc.) and *melon_android* is for the android port of melonDS emulator.
+> Make sure you download the correct savefile for your game's region. Also, you'll notices that at the end of the filename, there are *melon_PC* and *melon_android*. *melon_PC* is for the desktop version of melonDS emulator (Windows, Mac, Linux, etc.) and *melon_android* is for the android port of melonDS emulator.
 
 > [!WARNING]
 > If you have an existing savefile, be sure to backup that first by either renaming it or make a copy of it. This is so that you can go back to your original savefile after you're done messing around with the modified savefile.
