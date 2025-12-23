@@ -11,7 +11,10 @@ Download the savefile located in the [save](save/) directory.
 
 > [!WARNING]
 > If you have an existing savefile, be sure to backup that first by either renaming it or make a copy of it. This is so that you can go back to your original savefile after you're done messing around with the modified savefile provided here.
-Place your savefile in the same directory as your Nintendo DS ROMs (most likley, depending on the setup/emulator). Next, rename your downloaded savefile the same as your Nintendo DS ROM filename.
+
+Place your savefile in the same directory as your Nintendo DS ROMs (most likley, depending on the setup/emulator).
+
+Rename your downloaded savefile the same as your Nintendo DS ROM filename.
 
 Run melonDS emulator and select the game with the modified savefile.
 
