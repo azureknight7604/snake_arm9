@@ -9,7 +9,7 @@ Download the savefile located in the /save directory.
 > Make sure you download the correct savefile for your game's region. Also, you'll notices that at the end of each filename, there are *melon_PC* or *melon_android*. *melon_PC* is for the desktop version of melonDS emulator (Windows, Mac, Linux, etc.) and *melon_android* is for the android port of melonDS emulator.
 
 > [!WARNING]
-> If you have an existing savefile, be sure to backup that first by either renaming it or make a copy of it. This is so that you can go back to your original savefile after you're done messing around with the modified savefile.
+> If you have an existing savefile, be sure to backup that first by either renaming it or make a copy of it. This is so that you can go back to your original savefile after you're done messing around with the modified savefile provided here.
 Place your savefile in the same directory as your Nintendo DS ROMs (most likley, depending on the setup/emulator). Next, rename your downloaded savefile the same as your Nintendo DS ROM filename.
 
 Run melonDS emulator and select the game with the modified savefile.
