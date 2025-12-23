@@ -15,4 +15,9 @@ Place your savefile in the same directory as your Nintendo DS ROMs (most likley,
 Run melonDS emulator and select the game with the modified savefile.
 At the "titlescreen" where you see New game and Continue, select Continue.
 And if it works, you should see this screen:
+
 ![snake_info_arm9](images/snake_info.png)
+
+## Controls
+Direction Pad      Play / Change Snake direction
+START              Start Game / Pause / Un-Pause / Play Again
