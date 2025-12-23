@@ -36,7 +36,7 @@ START - Start Game / Pause / Un-Pause / Play Again
 1. This whole project was based on this information.
 [https://cturt.github.io/DS-exploit-finding.html](https://cturt.github.io/DS-exploit-finding.html)
 
-2. Programming for the Nintendo DS in ARM assembly language.
+2. ARM programming for the Nintendo DS.
 [https://www.chibialiens.com/arm/nds.php](https://www.chibialiens.com/arm/nds.php)
 
 3. CheatSheet for all the ARM commands.
