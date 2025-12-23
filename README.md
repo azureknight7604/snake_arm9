@@ -32,13 +32,13 @@ desmume emulator v0.9.13-win64 (Windows)
 
 ## Credits
 1. This whole project was based on this information.
-[Exploting DS save games](https://cturt.github.io/DS-exploit-finding.html)
+[https://cturt.github.io/DS-exploit-finding.html](https://cturt.github.io/DS-exploit-finding.html)
 
 2. Programming for the Nintendo DS in ARM assembly language.
-[ARM programming for the Nintendo DS](https://www.chibialiens.com/arm/nds.php)
+[https://www.chibialiens.com/arm/nds.php](https://www.chibialiens.com/arm/nds.php)
 
 3. CheatSheet for all the ARM commands.
-[ARM9 CheatSheet](https://www.chibialiens.com/arm/CheatSheet.pdf)
+[https://www.chibialiens.com/arm/CheatSheet.pdf](https://www.chibialiens.com/arm/CheatSheet.pdf)
 
 4. 8x8 Font used.
-[Tonc Text Systems](https://www.coranac.com/tonc/img/tonc_font.png)
+[https://www.coranac.com/tonc/img/tonc_font.png](https://www.coranac.com/tonc/img/tonc_font.png)
