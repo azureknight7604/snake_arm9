@@ -19,9 +19,9 @@ And if it works, you should see this screen:
 ![snake_info_arm9](images/snake_info.png)
 
 ## Controls
-Direction Pad      Play / Change Snake direction
+D-Pad - Play / Change Snake direction
 
-START              Start Game / Pause / Un-Pause / Play Again
+START - Start Game / Pause / Un-Pause / Play Again
 
 ## Tested and working
 melonDS emulator v0.9.5 win_x64 (Windows)
