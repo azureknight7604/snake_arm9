@@ -20,11 +20,14 @@ And if it works, you should see this screen:
 
 ## Controls
 Direction Pad      Play / Change Snake direction
+
 START              Start Game / Pause / Un-Pause / Play Again
 
 ## Tested and working
 melonDS emulator v0.9.5 win_x64 (Windows)
+
 melonDS-android
+
 desmume emulator v0.9.13-win64 (Windows)
 
 ## Credits
