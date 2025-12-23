@@ -42,7 +42,7 @@ START - Start Game / Pause / Un-Pause / Play Again
 3. CheatSheet for all the ARM commands.
 [https://www.chibialiens.com/arm/CheatSheet.pdf](https://www.chibialiens.com/arm/CheatSheet.pdf)
 
-4. 8x8 Font used.
+4. 8x8 Font used for this project.
 [https://www.coranac.com/tonc/img/tonc_font.png](https://www.coranac.com/tonc/img/tonc_font.png)
 
 5. devkitPro to compile code for the Nintendo DS.
