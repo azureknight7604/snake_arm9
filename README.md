@@ -9,10 +9,10 @@ A simple snake game coded in ARM9 assembly language for the Nintendo DS.
 > [!NOTE]
 > Make sure you download the correct savefile for your game's region (Europe, USA, Japan). Also, you'll notices that at the end of each filename, there are *melon_PC* or *melon_android*. *melon_PC* is for the desktop version of melonDS emulator (Windows, Mac, Linux) and *melon_android* is for the android port of melonDS emulator.
 
+2. Place your savefile that you've downloaded in the same directory as your Nintendo DS ROMs (this is most likley the case, depending on the setup/emulator).
+
 > [!WARNING]
 > If you have an existing savefile, be sure to backup that first by either renaming it or make a copy of it. This is so that you can go back to your original savefile after you're done messing around with the modified savefile provided here.
-
-2. Place your savefile that you've downloaded in the same directory as your Nintendo DS ROMs (this is most likley the case, depending on the setup/emulator).
 
 3. Rename your downloaded savefile the same as your Nintendo DS ROM filename.
 
