@@ -14,7 +14,7 @@ A simple snake game coded in ARM9 assembly language for the Nintendo DS.
 
 2. Place your savefile that you've downloaded in the same directory as your Nintendo DS ROMs (this is most likley the case, depending on the setup/emulator).
 
-3. Rename your downloaded savefile the same as your Nintendo DS ROM filename.
+3. Rename your downloaded savefile with the same filename as your Nintendo DS ROM.
 
 4. Run melonDS emulator and select the game with the modified savefile.
 
