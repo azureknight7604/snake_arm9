@@ -6,9 +6,9 @@ A simple snake game coded in ARM9 assembly language for the Nintendo DS.
 ## How this works
 Yu-Gi-Oh! 5D's World Championship 2011 has a buffer overflow vulnerability in the player's name. By having a very long player name that goes beyond the character limit set by the game, its possible to overwrite the "return address" to point it to somewhere else in memory to allow for arbitrary code execution (an ability to run whatever custom code you want).
 
-The custom code (snake game) is stored in the provided savefile here where the cards unlocked is located. The player name and cards unlock values is loaded into memory at the titlescreen - where you see New Game and Continue. After selecting Continue, the game reads the long player name that contains the new address and changes the "return address" in the process to point it to the custom code that is stored in the cards unlocked location, and starts executing it.
+The payload (snake game) is stored in the provided savefile here where the cards unlocked is located. The player name and cards unlock values is loaded into memory at the titlescreen - where you see New Game and Continue. After selecting Continue, the game reads the long player name that contains the new address and changes the "return address" in the process to point it to the payload that is stored in the cards unlocked location, and starts executing it.
 
-See [arm9.s](arm9.s) file for the custom code instructions (snake game).
+See [arm9.s](arm9.s) file for the payload instructions (snake game).
 
 ## How to setup
 1. Download the savefile located in the [save](save/) directory.
