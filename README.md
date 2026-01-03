@@ -34,7 +34,7 @@ If it works, you should see this screen:
 
 ![snake_info_arm9](images/snake_info.png)
 
-Congratulations! You can now play the Snake Game. Have fun!
+Congratulations. You can now play the snake game.
 
 ## Controls
 D-Pad - Move Snake / Change Snake direction
