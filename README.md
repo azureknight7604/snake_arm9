@@ -11,7 +11,7 @@ Yu-Gi-Oh! 5D's World Championship 2011 - Over the Nexus has a buffer overflow vu
 
 The payload (snake game) is stored in the provided savefile here where the cards unlocked is located. Both player name and cards unlock values is loaded into memory at the titlescreen - where you see New Game and Continue. After selecting Continue, the game then reads the long player name that contains the new address and changes the "return address" in the process to point it to the payload that is stored in the cards unlocked location, and starts executing it.
 
-See [arm9.s](arm9.s) file for the payload instructions (snake game).
+See [arm9.s](arm9.s) file for the payload instructions (snake game source code).
 
 ## How to setup
 1. Download the savefile located in the [save](save/) directory.
