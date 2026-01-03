@@ -49,7 +49,9 @@ START - Start Game / Pause / Un-Pause / Play Again
 
 3. Navigate inside the source code folder that you've downloaded. You should see:
 * arm9.s
+* font.s
 * Makefile
+* string.s
 
    Copy the path to the source code folder.
    e.g. `C:\dev\nds\snake_arm9-main`
