@@ -46,7 +46,7 @@ START - Start Game / Pause / Un-Pause / Play Again
 > If you already have devkitPro installed, then go to Step 2.
 1. You'll need to install devkitPro: [https://devkitpro.org/wiki/Getting_Started](https://devkitpro.org/wiki/Getting_Started)
 
-   When you have devkitPro installed and your able to compile one of the NDS examples, go to Step 2.
+When you have devkitPro installed and your able to compile one of the NDS examples, go to Step 2.
 
 2. Download and extract the source code hosted on this Github page.
 
@@ -56,12 +56,12 @@ START - Start Game / Pause / Un-Pause / Play Again
 * Makefile
 * string.s
 
-   Copy the path to the source code folder.
-   e.g. `C:\path\to\snake_arm9-main`
+Copy the path to the source code folder.
+e.g. `C:\path\to\snake_arm9-main`
 
 4. Open Terminal (cmd.exe if your on Windows)
    
-5. Type and execute `cd ` followed by the path to the source code folder. e.g. `cd C:\path\to\snake_arm9-main`
+5. Type and execute `cd` followed by the path to the source code folder. e.g. `cd C:\path\to\snake_arm9-main`
 
 6. Type and execute `make`
 
