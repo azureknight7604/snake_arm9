@@ -54,11 +54,11 @@ START - Start Game / Pause / Un-Pause / Play Again
 * string.s
 
    Copy the path to the source code folder.
-   e.g. `C:\dev\nds\snake_arm9-main`
+   e.g. `C:\path\to\snake_arm9-main`
 
 4. Open Terminal (cmd.exe if your on Windows)
    
-5. Type and execute `cd ` followed by the path to the source code folder. e.g. `cd C:\dev\nds\snake_arm9-main`
+5. Type and execute `cd ` followed by the path to the source code folder. e.g. `cd C:\path\to\snake_arm9-main`
 
 6. Type and execute `make`
 
