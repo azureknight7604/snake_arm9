@@ -3,7 +3,7 @@ A simple snake game coded in ARM assembly language for the Nintendo DS.
 
 ![snake_arm9](images/snake.gif)
 
-## How this works
+## How it works
 Yu-Gi-Oh! 5D's World Championship 2011 has a buffer overflow vulnerability in the player's name. By having a very long player name that goes beyond the character limit set by the game, its possible to overwrite the "return address" to point it to somewhere else in memory to allow for arbitrary code execution (an ability to run whatever custom code you want).
 
 The payload (snake game) is stored in the provided savefile here where the cards unlocked is located. Both player name and cards unlock values is loaded into memory at the titlescreen - where you see New Game and Continue. After selecting Continue, the game then reads the long player name that contains the new address and changes the "return address" in the process to point it to the payload that is stored in the cards unlocked location, and starts executing it.
@@ -37,6 +37,28 @@ Congratulations! You can now play the Snake Game. Have fun!
 D-Pad - Move Snake / Change Snake direction
 
 START - Start Game / Pause / Un-Pause / Play Again
+
+## Compiling the source code (arm9.s)
+> [!NOTE]
+> If you already have devkitPro installed, then go to Step 2.
+1. You'll need to install devkitPro: [https://devkitpro.org/wiki/Getting_Started](https://devkitpro.org/wiki/Getting_Started)
+
+When you have devkitPro installed and your able to compile one of the NDS examples, download the source code hosted on this Github page.
+
+2. Navigate to the source code folder that you've downloaded. You should see this:
+
+![source_code_list](images/source_code_list.png)
+
+Copy the path to the source code folder.
+e.g. `C:\dev\nds\snake_arm9`
+
+3. Open Terminal (cmd.exe if your on Windows)
+   
+4. Type and execute `cd ` followed by the path to the source code folder. e.g. `cd C:\dev\nds\snake_arm9`
+
+5. Type and execute `make`
+
+6. If successful, a new file called 'payload.s' should be created inside the source code folder.
 
 ## Tested and working
 * melonDS emulator v0.9.5 win_x64 (Windows)
