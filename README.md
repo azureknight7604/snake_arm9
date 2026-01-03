@@ -49,8 +49,8 @@ START - Start Game / Pause / Un-Pause / Play Again
 
 ![source_code_list](images/source_code_list.png)
 
-Copy the path to the source code folder.
-e.g. `C:\dev\nds\snake_arm9`
+   Copy the path to the source code folder.
+   e.g. `C:\dev\nds\snake_arm9`
 
 3. Open Terminal (cmd.exe if your on Windows)
    
