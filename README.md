@@ -51,8 +51,8 @@ START - Start Game / Pause / Un-Pause / Play Again
 2. Download and extract the source code hosted on this Github page.
 
 3. Navigate to the source code folder that you've downloaded. You should see:
-* Makefile
 * arm9.s
+* Makefile
 
 Copy the path to the source code folder.
 e.g. `C:\dev\nds\snake_arm9-main`
