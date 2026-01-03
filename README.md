@@ -65,7 +65,7 @@ e.g. `C:\path\to\snake_arm9-main`
 
 6. Type and execute `make`
 
-7. If successful, a new file called 'payload.bin' should be created inside the source code folder.
+7. If successful, a new file 'payload.bin' should be created inside the source code folder.
 
 ## Tested and working
 * melonDS emulator v0.9.5 win_x64 (Windows)
