@@ -43,22 +43,24 @@ START - Start Game / Pause / Un-Pause / Play Again
 > If you already have devkitPro installed, then go to Step 2.
 1. You'll need to install devkitPro: [https://devkitpro.org/wiki/Getting_Started](https://devkitpro.org/wiki/Getting_Started)
 
-   When you have devkitPro installed and your able to compile one of the NDS examples, download the source code hosted on this Github page.
+   When you have devkitPro installed and your able to compile one of the NDS examples, go to Step 2.
 
-2. Navigate to the source code folder that you've downloaded. You should see this:
+2. Download and extract the source code hosted on this Github page.
 
-![source_code_list](images/source_code_list.png)
+3. Navigate to the source code folder that you've downloaded. You should see:
+* Makefile
+* arm9.s
 
-   Copy the path to the source code folder.
-   e.g. `C:\dev\nds\snake_arm9`
+Copy the path to the source code folder.
+e.g. `C:\dev\nds\snake_arm9-main`
 
-3. Open Terminal (cmd.exe if your on Windows)
+4. Open Terminal (cmd.exe if your on Windows)
    
-4. Type and execute `cd ` followed by the path to the source code folder. e.g. `cd C:\dev\nds\snake_arm9`
+5. Type and execute `cd ` followed by the path to the source code folder. e.g. `cd C:\dev\nds\snake_arm9-main`
 
-5. Type and execute `make`
+6. Type and execute `make`
 
-6. If successful, a new file called 'payload.s' should be created inside the source code folder.
+7. If successful, a new file called 'payload.s' should be created inside the source code folder.
 
 ## Tested and working
 * melonDS emulator v0.9.5 win_x64 (Windows)
