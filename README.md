@@ -19,7 +19,10 @@ See [arm9.s](arm9.s) file for the payload instructions (snake game).
 > [!WARNING]
 > If you have an existing savefile, be sure to backup that first by either renaming it or make a copy of it. This is so that you can go back to your original savefile after you're done messing around with the modified savefile provided here.
 
+
 2. Place your savefile that you've downloaded in the same directory as your Nintendo DS ROMs (this is most likley the case, depending on the setup/emulator).
+
+
 
 3. Rename your downloaded savefile with the same filename as your Nintendo DS ROM.
 
