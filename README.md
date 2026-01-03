@@ -43,7 +43,7 @@ START - Start Game / Pause / Un-Pause / Play Again
 > If you already have devkitPro installed, then go to Step 2.
 1. You'll need to install devkitPro: [https://devkitpro.org/wiki/Getting_Started](https://devkitpro.org/wiki/Getting_Started)
 
-1. When you have devkitPro installed and your able to compile one of the NDS examples, download the source code hosted on this Github page.
+   When you have devkitPro installed and your able to compile one of the NDS examples, download the source code hosted on this Github page.
 
 2. Navigate to the source code folder that you've downloaded. You should see this:
 
