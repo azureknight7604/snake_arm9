@@ -11,6 +11,8 @@ Yu-Gi-Oh! 5D's World Championship 2011 - Over the Nexus has a buffer overflow vu
 
 The payload (snake game) is stored in the provided savefile here where the cards unlocked is located. Both player name and cards unlock values is loaded into memory at the titlescreen - where you see New Game and Continue. After selecting Continue, the game then reads the long player name that contains the new address and changes the "return address" in the process to point it to the payload that is stored in the cards unlocked location, and starts executing it.
 
+Video demonstration: [https://www.youtube.com/watch?v=xlzrsy3TT48](https://www.youtube.com/watch?v=xlzrsy3TT48)
+
 See [arm9.s](arm9.s) file for the payload instructions (snake game source code).
 
 ## How to setup
@@ -75,17 +77,17 @@ e.g. `C:\path\to\snake_arm9-main`
 * desmume emulator v0.9.13-win64 (Windows)
 
 ## Credits
-1. This whole project was based on this information.
+1. devkitPro to compile code for the Nintendo DS.
+[https://devkitpro.org/](https://devkitpro.org/)
+
+2. This whole project was based on this information.
 [https://cturt.github.io/DS-exploit-finding.html](https://cturt.github.io/DS-exploit-finding.html)
 
-2. ARM programming for the Nintendo DS.
+3. ARM programming for the Nintendo DS.
 [https://www.chibialiens.com/arm/nds.php](https://www.chibialiens.com/arm/nds.php)
 
-3. CheatSheet for all the ARM commands.
+4. CheatSheet for all the ARM commands.
 [https://www.chibialiens.com/arm/CheatSheet.pdf](https://www.chibialiens.com/arm/CheatSheet.pdf)
 
-4. 8x8 Font used for this project.
+5. 8x8 Font used for this project.
 [https://www.coranac.com/tonc/img/tonc_font.png](https://www.coranac.com/tonc/img/tonc_font.png)
-
-5. devkitPro to compile code for the Nintendo DS.
-[https://devkitpro.org/](https://devkitpro.org/)
